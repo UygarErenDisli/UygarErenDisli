@@ -1,16 +1,33 @@
-### Hi there 👋
+👋 Hey, I'm Uygar!
 
-<!--
-**UygarErenDisli/UygarErenDisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Junior Software Developer | 🌍 Turkey
 
-Here are some ideas to get you started:
+🌟 Aspiring software developer with a passion for code and design principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Skills:
+- 💡 Front-end: HTML, CSS
+- 📡 Back-end: Python, Java, C#
+- 🛢️ Databases: SQL, MySQL
+- 🛠️ Tools: Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA
+
+💼 Additional Skills:
+- 🔍 Debugging
+- 🧪 Unit Testing
+- 🧹 Clean Coding
+- 🤝 Code Review
+- 🔄 Code Refactoring
+- 🧩 Design Patterns
+
+🤝 Soft Skills:
+- 🤖 Analytical Thinking
+- 🤓 Continuous Learnning
+- 🤖 Team Player
+- ⏰ Time Management
+- 🧠 Problem Solving
+- 🤔 Critical Thinking
+
+💼 I'm excited to create software that not only works flawlessly but also delights users with intuitive and visually appealing designs.
+
+📚 My commitment to learning extends to mastering design principles for robust and efficient backend systems.
+
+📫 Let's connect: [LinkedIn](www.linkedin.com/in/uygarerendişli). Let's build software that combines cutting-edge technology with stunning design!

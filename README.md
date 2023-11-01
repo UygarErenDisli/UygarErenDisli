@@ -30,4 +30,4 @@
 
 📚 My commitment to learning extends to mastering design principles for robust and efficient backend systems.
 
-📫 Let's connect: [LinkedIn](www.linkedin.com/in/uygarerendişli). Let's build software that combines cutting-edge technology with stunning design!
+📫 Let's connect: [LinkedIn](www.linkedin.com/in/uygarerendişli).Let's build software that combines cutting-edge technology with stunning design!
